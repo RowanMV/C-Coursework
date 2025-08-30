@@ -153,4 +153,5 @@ auto results = vessel.rungeKuttaMethod(total_time, time_step, gravity, density, 
 
 ## Author
 
+Rowan Vedangi
 Part of C++ Programming Coursework - Numerical Solution of Differential Equations
